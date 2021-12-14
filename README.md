@@ -13,7 +13,7 @@ Even if the bot has alot of commands (reminders, premium features, profiles, eco
 - Clone the github repository
 - Make sure you have [nodejs installed](https://nodejs.org/en/) (preferable version 16)
 - Open the file in your editor and run `npm install` to install everything the bot needs
-- Go inside config.json and add your **token** as well as your **guild ID**
+- Go inside config.json and add your **token**, change the slash commands from GLOBAL to GUILD and add your **guild ID**
 - Run the bot 
 <div align="left">
   <p>
