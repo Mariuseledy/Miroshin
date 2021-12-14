@@ -1,0 +1,37 @@
+{
+    "IMPORTANT": "Make sure to add your TOKEN and GUILD ID",
+    
+    "Configuration": {
+        "bot": {
+            "prefix": "m!",
+            "ownerID": "277596580033331220",
+            "Token": "<-- YOUR TOKEN HERE -->"
+        },
+        "start": {
+            "Status": {
+                "StatusText": "Watatsumi Island.",
+                "type": "WATCHING"
+            }
+        },
+        "other": {
+            "ko-fi": "https://ko-fi.com/mariuseledy4225"
+        }
+    },
+    "Settings": {
+        "SlashCommands": {
+            "INFO": " How the slash commands will be updated, either global or in-guild. ",
+            "OPTIONS": " GLOBAL/GUILD ",
+
+            "Status": "GUILD",
+            "GuildID": "<-- YOUR GUILD ID HERE ->>"
+        },
+        "Maintenance": {
+            "INFO": " Maintenance status. Toggle if slash commands can be used or not. ",
+            "OPTIONS": " ON/OFF ",
+
+            "Status": "OFF",
+            "Issue(s)": "This is just a test.",
+            "Image": "https://i.imgur.com/yJ4qlpd.png"
+        }
+    }
+}

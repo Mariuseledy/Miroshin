@@ -1,0 +1,29 @@
+{
+    "name": "Miroshin",
+    "version": "1.0.0",
+    "description": "The official bot of Miroshin server.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "keywords": [
+        "discord bot",
+        "discord",
+        "bot"
+    ],
+    "author": "Marius",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "canvas": "^2.8.0",
+        "discord-jokes": "^4.0.0",
+        "discord.js": "^13.3.1",
+        "glob": "^7.2.0",
+        "node": "16.6.1"
+    },
+    "engines": {
+        "node": "==16.10.0",
+        "npm": ">=6.0.0"
+    }
+}
