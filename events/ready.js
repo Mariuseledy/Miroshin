@@ -40,5 +40,5 @@ client.on("ready", async (message) => {
   `▎▶ Status: Type: ${config.Configuration.start.Status.type}\n` +
   `▎          Text: ${config.Configuration.start.Status.StatusText}\n` +
   `▎▶ Slash commands: ${SlashCommandsCheck()}\n` + 
-  `▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔`);
+  `▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔` + `\nIf you found this handler useful please consider supporting me on ko-fi!\nLink: ${config.Configuration.other["ko-fi"]}`);
 });
