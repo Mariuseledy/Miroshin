@@ -22,7 +22,7 @@
             "INFO": " How the slash commands will be updated, either global or in-guild. ",
             "OPTIONS": " GLOBAL/GUILD ",
 
-            "Status": "GUILD",
+            "Status": "GLOBAL",
             "GuildID": "<-- YOUR GUILD ID HERE ->>"
         },
         "Maintenance": {
